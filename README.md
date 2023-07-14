@@ -2,7 +2,7 @@
 
 Author: Kevin Han from Pondering Pixel
 
-Date: May 2023
+Date: July 2023
 
 Description: 
 An example of saving/loading game data using BinaryFormatter in Unity.
